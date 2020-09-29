@@ -1,1 +1,1 @@
-# Paddle-Ball
+# I created this game as the final project of my introductory Computer Science course. It is a mixture between the game breakout and pinball, that I have named "Paddle-Ball." There are three levels and the objective of the game is to get the highest score possible. 
